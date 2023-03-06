@@ -1,0 +1,30 @@
+{
+  "name": "fetch_france_data",
+  "version": "1.0.0",
+  "description": "fetch sbf 120 board members",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node dist/app.js",
+    "lint": "eslint . --ext .ts"
+  },
+  "author": "",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "@types/node": "^18.14.6",
+    "@typescript-eslint/eslint-plugin": "^5.54.0",
+    "eslint": "^8.35.0",
+    "eslint-config-standard-with-typescript": "^34.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "ts-lint": "^4.5.1",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
