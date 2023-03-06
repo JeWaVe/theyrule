@@ -1,1 +1,0 @@
-{"version":3,"file":"bodaccRadiation.js","sourceRoot":"","sources":["../../../api_pappers/model/bodaccRadiation.ts"],"names":[],"mappings":";AAAA;;;;;;;;;;GAUG;;;AAGH,qCAAkC;AAElC,MAAa,eAAgB,SAAQ,eAAM;IAOvC,MAAM,CAAC,mBAAmB;QACtB,OAAO,KAAK,CAAC,mBAAmB,EAAE,CAAC,MAAM,CAAC,eAAe,CAAC,gBAAgB,CAAC,CAAC;IAChF,CAAC;;AATL,0CAUC;AARU,6BAAa,GAAuB,SAAS,CAAC;AAE9C,gCAAgB,GAA0D,EAChF,CAAC"}
